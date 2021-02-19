@@ -1,0 +1,6 @@
+///FALTAN POR  NO TENER DATOS CARGADOS///	
+
+	    Agregar Compra
+	    Agregar Venta
+
+///FALTAN POR  NO TENER DATOS CARGADOS///

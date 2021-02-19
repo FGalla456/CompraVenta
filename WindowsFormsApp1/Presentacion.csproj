@@ -1,0 +1,486 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A950BED4-2FF4-401C-BDEF-0D55C28025D7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Compras\Detalle Compra\eliminar_detalle_compra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compras\Detalle Compra\eliminar_detalle_compra.Designer.cs">
+      <DependentUpon>eliminar_detalle_compra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Compras\Detalle Compra\TDC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compras\Detalle Compra\TDC.Designer.cs">
+      <DependentUpon>TDC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Compras\ListaCom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compras\ListaCom.Designer.cs">
+      <DependentUpon>ListaCom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\listaClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\listaClientes.Designer.cs">
+      <DependentUpon>listaClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empleados\listaempleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empleados\listaempleados.Designer.cs">
+      <DependentUpon>listaempleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Informes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Informes.Designer.cs">
+      <DependentUpon>Informes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Categorias\listcategorias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Categorias\listcategorias.Designer.cs">
+      <DependentUpon>listcategorias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Proveedores\listarprov.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Proveedores\listarprov.Designer.cs">
+      <DependentUpon>listarprov.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventas\ListaVen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventas\ListaVen.Designer.cs">
+      <DependentUpon>ListaVen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Productos\Listaprod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Productos\Listaprod.Designer.cs">
+      <DependentUpon>Listaprod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventas\Detalle Venta\TDV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventas\Detalle Venta\TDV.Designer.cs">
+      <DependentUpon>TDV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventas\Detalle Venta\EliminarDetalleVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventas\Detalle Venta\EliminarDetalleVenta.Designer.cs">
+      <DependentUpon>EliminarDetalleVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Productos\actualizar_productos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Productos\actualizar_productos.Designer.cs">
+      <DependentUpon>actualizar_productos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empleados\actualizar_empleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empleados\actualizar_empleados.Designer.cs">
+      <DependentUpon>actualizar_empleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\actualizar_clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\actualizar_clientes.Designer.cs">
+      <DependentUpon>actualizar_clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Categorias\actualizarcat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Categorias\actualizarcat.Designer.cs">
+      <DependentUpon>actualizarcat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Categorias\eliminarcat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Categorias\eliminarcat.Designer.cs">
+      <DependentUpon>eliminarcat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\elimiarcliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\elimiarcliente.Designer.cs">
+      <DependentUpon>elimiarcliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Compras\Detalle Compra\Detalle Compra1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compras\Detalle Compra\Detalle Compra1.Designer.cs">
+      <DependentUpon>Detalle Compra1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventas\Detalle Venta\Detalle Venta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventas\Detalle Venta\Detalle Venta.Designer.cs">
+      <DependentUpon>Detalle Venta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventas\eliminarventa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventas\eliminarventa.Designer.cs">
+      <DependentUpon>eliminarventa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Productos\eliminarprod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Productos\eliminarprod.Designer.cs">
+      <DependentUpon>eliminarprod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empleados\eliminarempl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empleados\eliminarempl.Designer.cs">
+      <DependentUpon>eliminarempl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Proveedores\actualizarprov.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Proveedores\actualizarprov.Designer.cs">
+      <DependentUpon>actualizarprov.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Categorias\Agregar Categoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Categorias\Agregar Categoria.Designer.cs">
+      <DependentUpon>Agregar Categoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empleados\Agregar Empleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empleados\Agregar Empleados.Designer.cs">
+      <DependentUpon>Agregar Empleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Productos\Agregar Producto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Productos\Agregar Producto.Designer.cs">
+      <DependentUpon>Agregar Producto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Proveedores\Agregar Proveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Proveedores\Agregar Proveedor.Designer.cs">
+      <DependentUpon>Agregar Proveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\Agregar Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\Agregar Clientes.Designer.cs">
+      <DependentUpon>Agregar Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Categorias\Categorias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Categorias\Categorias.Designer.cs">
+      <DependentUpon>Categorias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\Clientes.Designer.cs">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Compras\Compras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compras\Compras.Designer.cs">
+      <DependentUpon>Compras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Proveedores\eliminar proveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Proveedores\eliminar proveedor.Designer.cs">
+      <DependentUpon>eliminar proveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empleados\Empleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empleados\Empleados.Designer.cs">
+      <DependentUpon>Empleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Compras\Agregar Compra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compras\Agregar Compra.Designer.cs">
+      <DependentUpon>Agregar Compra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventas\Agregar Venta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventas\Agregar Venta.Designer.cs">
+      <DependentUpon>Agregar Venta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Productos\Productos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Productos\Productos.Designer.cs">
+      <DependentUpon>Productos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Proveedores\Proveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Proveedores\Proveedores.Designer.cs">
+      <DependentUpon>Proveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Ventas\Ventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventas\Ventas.Designer.cs">
+      <DependentUpon>Ventas.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Compras\Detalle Compra\eliminar_detalle_compra.resx">
+      <DependentUpon>eliminar_detalle_compra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compras\Detalle Compra\TDC.resx">
+      <DependentUpon>TDC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compras\ListaCom.resx">
+      <DependentUpon>ListaCom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\listaClientes.resx">
+      <DependentUpon>listaClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empleados\listaempleados.resx">
+      <DependentUpon>listaempleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Informes.resx">
+      <DependentUpon>Informes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Categorias\listcategorias.resx">
+      <DependentUpon>listcategorias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Proveedores\listarprov.resx">
+      <DependentUpon>listarprov.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventas\ListaVen.resx">
+      <DependentUpon>ListaVen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Productos\Listaprod.resx">
+      <DependentUpon>Listaprod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventas\Detalle Venta\TDV.resx">
+      <DependentUpon>TDV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventas\Detalle Venta\EliminarDetalleVenta.resx">
+      <DependentUpon>EliminarDetalleVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Productos\actualizar_productos.resx">
+      <DependentUpon>actualizar_productos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empleados\actualizar_empleados.resx">
+      <DependentUpon>actualizar_empleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\actualizar_clientes.resx">
+      <DependentUpon>actualizar_clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Categorias\actualizarcat.resx">
+      <DependentUpon>actualizarcat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Categorias\eliminarcat.resx">
+      <DependentUpon>eliminarcat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\elimiarcliente.resx">
+      <DependentUpon>elimiarcliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compras\Detalle Compra\Detalle Compra1.resx">
+      <DependentUpon>Detalle Compra1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventas\Detalle Venta\Detalle Venta.resx">
+      <DependentUpon>Detalle Venta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empleados\eliminarempl.resx">
+      <DependentUpon>eliminarempl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Productos\eliminarprod.resx">
+      <DependentUpon>eliminarprod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Proveedores\actualizarprov.resx">
+      <DependentUpon>actualizarprov.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Categorias\Agregar Categoria.resx">
+      <DependentUpon>Agregar Categoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empleados\Agregar Empleados.resx">
+      <DependentUpon>Agregar Empleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Productos\Agregar Producto.resx">
+      <DependentUpon>Agregar Producto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Proveedores\Agregar Proveedor.resx">
+      <DependentUpon>Agregar Proveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\Agregar Clientes.resx">
+      <DependentUpon>Agregar Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Categorias\Categorias.resx">
+      <DependentUpon>Categorias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\Clientes.resx">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compras\Compras.resx">
+      <DependentUpon>Compras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Proveedores\eliminar proveedor.resx">
+      <DependentUpon>eliminar proveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empleados\Empleados.resx">
+      <DependentUpon>Empleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compras\Agregar Compra.resx">
+      <DependentUpon>Agregar Compra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventas\Agregar Venta.resx">
+      <DependentUpon>Agregar Venta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Productos\Productos.resx">
+      <DependentUpon>Productos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Proveedores\Proveedores.resx">
+      <DependentUpon>Proveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Ventas\eliminarventa.resx">
+      <DependentUpon>eliminarventa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventas\Ventas.resx">
+      <DependentUpon>Ventas.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entidad\Entidad.csproj">
+      <Project>{54a8f0ba-239b-4dad-9b63-d265247d6083}</Project>
+      <Name>Entidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Negocio\Negocio.csproj">
+      <Project>{d250be47-30a7-4ed4-937b-ab4e5758e85d}</Project>
+      <Name>Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0404_09_search_LCl_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="LCC11">
+      <Guid>{EDCD5812-6A06-43C3-AFAC-46EF5D14E22C}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

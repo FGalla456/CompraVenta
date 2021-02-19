@@ -1,0 +1,1376 @@
+C:\Users\W7\Desktop\proyactualizado\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\W7\Desktop\proyactualizado\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\W7\Desktop\proyactualizado\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\W7\Desktop\proyactualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\W7\Desktop\proyactualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\W7\Desktop\proyactualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\W7\Desktop\proyactualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\W7\Desktop\proyactualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\W7\Desktop\proyactualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\W7\Desktop\proyactualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\W7\Desktop\proyactualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.clientes.resources
+C:\Users\W7\Desktop\proyactualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\W7\Desktop\proyactualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EMPLEADOS.resources
+C:\Users\W7\Desktop\proyactualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\W7\Desktop\proyactualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\W7\Desktop\proyactualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\W7\Desktop\proyactualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\W7\Desktop\proyactualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\W7\Desktop\proyactualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\W7\Desktop\proyactualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\W7\Desktop\proyactualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\W7\Desktop\proyactualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\W7\Desktop\proyactualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\W7\Desktop\proyactualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\W10\Desktop\proyecto final programacion\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\W10\Desktop\proyecto final programacion\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\W10\Desktop\proyecto final programacion\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\W10\Desktop\proyecto final programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\W10\Desktop\proyecto final programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\W10\Desktop\proyecto final programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\W10\Desktop\proyecto final programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\W10\Desktop\proyecto final programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\W10\Desktop\proyecto final programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\W10\Desktop\proyecto final programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\W10\Desktop\proyecto final programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.clientes.resources
+C:\Users\W10\Desktop\proyecto final programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\W10\Desktop\proyecto final programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EMPLEADOS.resources
+C:\Users\W10\Desktop\proyecto final programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\W10\Desktop\proyecto final programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\W10\Desktop\proyecto final programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\W10\Desktop\proyecto final programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\W10\Desktop\proyecto final programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\W10\Desktop\proyecto final programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\W10\Desktop\proyecto final programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\W10\Desktop\proyecto final programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\W10\Desktop\proyecto final programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\proyecto final programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\W10\Desktop\proyecto final programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empleados.resources
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Entidad.dll
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Negocio.dll
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Entidad.pdb
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Negocio.pdb
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\W10\Desktop\Final Programacion\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empleados.resources
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Entidad.dll
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Negocio.dll
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Entidad.pdb
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Negocio.pdb
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_proveedor.resources
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarprov.resources
+C:\Users\Gasty\Desktop\galla\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.idxprov.resources
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarprov.resources
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_proveedor.resources
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empleados.resources
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Entidad.dll
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Negocio.dll
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Entidad.pdb
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Negocio.pdb
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcat.resources
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.elimiarcliente.resources
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcomp.resources
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarempl.resources
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarprod.resources
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarventa.resources
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Venta.resources
+C:\Users\Gasty\Desktop\actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Compra1.resources
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Entidad.dll
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Negocio.dll
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Entidad.pdb
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Negocio.pdb
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarcat.resources
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcat.resources
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.elimiarcliente.resources
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcomp.resources
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Compra1.resources
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Venta.resources
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarempl.resources
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarprod.resources
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarprov.resources
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_proveedor.resources
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empleados.resources
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarventa.resources
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\uno bueno actualizado\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarcat.resources
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcat.resources
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.elimiarcliente.resources
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcomp.resources
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Compra1.resources
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Venta.resources
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarempl.resources
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarprod.resources
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarprov.resources
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_proveedor.resources
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empleados.resources
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarventa.resources
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Entidad.dll
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Negocio.dll
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Entidad.pdb
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Negocio.pdb
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\W10\Desktop\version 1.1 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Entidad.dll
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Negocio.dll
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Entidad.pdb
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Negocio.pdb
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarcat.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcat.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.elimiarcliente.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcomp.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Compra1.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Venta.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarempl.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarprod.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarprov.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_proveedor.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empleados.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarventa.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_clientes.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_empleados.resources
+C:\Users\Gasty\Desktop\version 1.2 proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_productos.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\bin\Debug\Entidad.dll
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\bin\Debug\Negocio.dll
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\bin\Debug\Entidad.pdb
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\bin\Debug\Negocio.pdb
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_productos.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_empleados.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_clientes.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarcat.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcat.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.elimiarcliente.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcomp.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Compra1.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Venta.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarempl.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarprod.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarprov.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_proveedor.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empleados.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarventa.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\version 1.3 proyecto\1.3 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_productos.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_empleados.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_clientes.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarcat.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcat.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.elimiarcliente.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcomp.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Compra1.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Venta.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarempl.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarprod.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarprov.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_proveedor.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empleados.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarventa.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\bin\Debug\Entidad.dll
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\bin\Debug\Negocio.dll
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\bin\Debug\Entidad.pdb
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\bin\Debug\Negocio.pdb
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\Gasty\Desktop\1.3.2 con script\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\bin\Debug\Entidad.dll
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\bin\Debug\Negocio.dll
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\bin\Debug\Entidad.pdb
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\bin\Debug\Negocio.pdb
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_productos.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_empleados.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_clientes.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarcat.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcat.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.elimiarcliente.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcomp.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Compra1.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Venta.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarempl.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarprod.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarprov.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_proveedor.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empleados.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarventa.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\W10\Desktop\1.4 con script\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\bin\Debug\Entidad.dll
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\bin\Debug\Negocio.dll
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\bin\Debug\Entidad.pdb
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\bin\Debug\Negocio.pdb
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_productos.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_empleados.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_clientes.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarcat.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcat.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.elimiarcliente.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcomp.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Compra1.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Venta.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarempl.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarprod.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarprov.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_proveedor.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empleados.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarventa.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_detalle_compra.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EliminarDetalleVenta.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDV.resources
+C:\Users\Administrador\Desktop\Version Final 2.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDC.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\bin\Debug\Entidad.dll
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\bin\Debug\Negocio.dll
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\bin\Debug\Entidad.pdb
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\bin\Debug\Negocio.pdb
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_detalle_compra.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDC.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDV.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EliminarDetalleVenta.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_productos.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_empleados.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_clientes.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarcat.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcat.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.elimiarcliente.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcomp.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Compra1.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Venta.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarempl.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarprod.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarprov.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_proveedor.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empleados.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarventa.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\W10\Desktop\Version Final 2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\bin\Debug\Entidad.dll
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\bin\Debug\Negocio.dll
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\bin\Debug\Entidad.pdb
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\bin\Debug\Negocio.pdb
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_detalle_compra.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDC.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDV.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EliminarDetalleVenta.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_productos.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_empleados.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_clientes.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarcat.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcat.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.elimiarcliente.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcomp.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Compra1.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Venta.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarempl.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarprod.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarprov.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_proveedor.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empleados.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarventa.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\Version Final 2.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\bin\Debug\Entidad.dll
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\bin\Debug\Negocio.dll
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\bin\Debug\Entidad.pdb
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\bin\Debug\Negocio.pdb
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_detalle_compra.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDC.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDV.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EliminarDetalleVenta.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_productos.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_empleados.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_clientes.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarcat.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcat.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.elimiarcliente.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcomp.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Compra1.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Venta.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarempl.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarprod.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarprov.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_proveedor.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empleados.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarventa.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\W10\Desktop\Version Final 2.2.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\bin\Debug\Entidad.dll
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\bin\Debug\Negocio.dll
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\bin\Debug\Entidad.pdb
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\bin\Debug\Negocio.pdb
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_detalle_compra.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDC.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDV.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EliminarDetalleVenta.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_productos.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_empleados.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_clientes.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarcat.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcat.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.elimiarcliente.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcomp.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Compra1.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Venta.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarempl.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarprod.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarprov.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_proveedor.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empleados.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarventa.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\Version Final 2.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\bin\Debug\Entidad.dll
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\bin\Debug\Negocio.dll
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\bin\Debug\Entidad.pdb
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\bin\Debug\Negocio.pdb
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_detalle_compra.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDC.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Listaprod.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDV.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EliminarDetalleVenta.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_productos.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_empleados.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_clientes.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarcat.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcat.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.elimiarcliente.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Compra1.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Venta.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarempl.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarprod.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarprov.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_proveedor.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empleados.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarventa.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\Version Final 2.3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListaCom.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\bin\Debug\Entidad.dll
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\bin\Debug\Negocio.dll
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\bin\Debug\Entidad.pdb
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\bin\Debug\Negocio.pdb
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_detalle_compra.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDC.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListaCom.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Listaprod.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDV.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EliminarDetalleVenta.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_productos.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_empleados.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_clientes.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarcat.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcat.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.elimiarcliente.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Compra1.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Venta.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarempl.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarprod.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarprov.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_proveedor.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empleados.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarventa.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\Version Final 2.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListaVen.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\bin\Debug\Entidad.dll
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\bin\Debug\Negocio.dll
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\bin\Debug\Entidad.pdb
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\bin\Debug\Negocio.pdb
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_detalle_compra.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDC.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListaCom.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListaVen.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Listaprod.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDV.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EliminarDetalleVenta.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_productos.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_empleados.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_clientes.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarcat.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcat.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.elimiarcliente.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Compra1.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Venta.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarempl.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarprod.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarprov.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_proveedor.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empleados.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarventa.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listarprov.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listaClientes.resources
+C:\Users\Gasty\Desktop\Version Final 2.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listaempleados.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\bin\Debug\Entidad.dll
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\bin\Debug\Negocio.dll
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\bin\Debug\Entidad.pdb
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\bin\Debug\Negocio.pdb
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_detalle_compra.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDC.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListaCom.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listaClientes.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listaempleados.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listarprov.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListaVen.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Listaprod.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDV.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EliminarDetalleVenta.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_productos.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_empleados.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_clientes.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarcat.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcat.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.elimiarcliente.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Compra1.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Venta.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarempl.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarprod.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarprov.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_proveedor.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empleados.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarventa.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\Version Final 2.7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Informes.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\bin\Debug\Entidad.dll
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\bin\Debug\Negocio.dll
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\bin\Debug\Entidad.pdb
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\bin\Debug\Negocio.pdb
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_detalle_compra.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDC.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListaCom.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listaClientes.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listaempleados.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Informes.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listarprov.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListaVen.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Listaprod.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDV.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EliminarDetalleVenta.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_productos.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_empleados.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_clientes.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarcat.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcat.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.elimiarcliente.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Compra1.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Venta.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarempl.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarprod.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarprov.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_proveedor.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empleados.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarventa.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\W10\Desktop\Version Final 2.8\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\bin\Debug\Entidad.dll
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\bin\Debug\Negocio.dll
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\bin\Debug\Entidad.pdb
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\bin\Debug\Negocio.pdb
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_detalle_compra.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDC.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListaCom.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listaClientes.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listaempleados.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Informes.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listarprov.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListaVen.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Listaprod.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDV.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EliminarDetalleVenta.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_productos.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_empleados.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_clientes.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarcat.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcat.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.elimiarcliente.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Compra1.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Venta.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarempl.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarprod.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarprov.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_proveedor.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empleados.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarventa.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\Version Final 2.9\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listcategorias.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\bin\Debug\Entidad.dll
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\bin\Debug\Negocio.dll
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\bin\Debug\Entidad.pdb
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\bin\Debug\Negocio.pdb
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_detalle_compra.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDC.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListaCom.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listaClientes.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listaempleados.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Informes.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listcategorias.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listarprov.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListaVen.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Listaprod.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDV.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EliminarDetalleVenta.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_productos.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_empleados.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_clientes.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarcat.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcat.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.elimiarcliente.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Compra1.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Venta.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarempl.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarprod.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarprov.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_proveedor.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empleados.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarventa.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\W10\Desktop\Version Final 3.0\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\bin\Debug\Entidad.dll
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\bin\Debug\Negocio.dll
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\bin\Debug\Entidad.pdb
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\bin\Debug\Negocio.pdb
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_detalle_compra.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDC.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListaCom.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listaClientes.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listaempleados.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Informes.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listcategorias.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listarprov.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListaVen.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Listaprod.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDV.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EliminarDetalleVenta.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_productos.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_empleados.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_clientes.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarcat.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcat.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.elimiarcliente.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Compra1.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Venta.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarempl.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarprod.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarprov.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_proveedor.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empleados.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarventa.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\Version Final 3.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\bin\Debug\Entidad.dll
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\bin\Debug\Negocio.dll
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\bin\Debug\Entidad.pdb
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\bin\Debug\Negocio.pdb
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_detalle_compra.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDC.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListaCom.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listaClientes.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listaempleados.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Informes.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listcategorias.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listarprov.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListaVen.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Listaprod.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDV.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EliminarDetalleVenta.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_productos.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_empleados.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_clientes.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarcat.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcat.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.elimiarcliente.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Compra1.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Venta.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarempl.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarprod.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarprov.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_proveedor.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empleados.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarventa.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\W10\Desktop\Version Final 3.2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\bin\Debug\Entidad.dll
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\bin\Debug\Negocio.dll
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\bin\Debug\Entidad.pdb
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\bin\Debug\Negocio.pdb
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_detalle_compra.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDC.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListaCom.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listaClientes.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listaempleados.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Informes.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listcategorias.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listarprov.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListaVen.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Listaprod.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDV.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EliminarDetalleVenta.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_productos.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_empleados.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_clientes.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarcat.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcat.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.elimiarcliente.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Compra1.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Venta.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarempl.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarprod.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarprov.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_proveedor.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empleados.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarventa.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Administrador\Desktop\Version Final 3.3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\bin\Debug\Entidad.dll
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\bin\Debug\Negocio.dll
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\bin\Debug\Entidad.pdb
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\bin\Debug\Negocio.pdb
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_detalle_compra.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDC.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListaCom.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listaClientes.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listaempleados.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Informes.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listcategorias.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listarprov.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListaVen.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Listaprod.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDV.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EliminarDetalleVenta.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_productos.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_empleados.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_clientes.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarcat.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcat.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.elimiarcliente.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Compra1.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Venta.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarempl.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarprod.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarprov.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_proveedor.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empleados.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarventa.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\W10\Desktop\Version Final 3.4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\bin\Debug\Entidad.dll
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\bin\Debug\Negocio.dll
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\bin\Debug\Entidad.pdb
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\bin\Debug\Negocio.pdb
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_detalle_compra.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDC.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListaCom.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listaClientes.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listaempleados.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Informes.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listcategorias.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listarprov.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListaVen.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Listaprod.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDV.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EliminarDetalleVenta.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_productos.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_empleados.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_clientes.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarcat.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcat.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.elimiarcliente.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Compra1.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Venta.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarempl.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarprod.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarprov.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_proveedor.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empleados.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarventa.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\Version Final 3.5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_detalle_compra.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDC.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListaCom.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listaClientes.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listaempleados.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Informes.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listcategorias.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.listarprov.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ListaVen.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Listaprod.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TDV.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EliminarDetalleVenta.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_productos.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_empleados.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizar_clientes.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarcat.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarcat.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.elimiarcliente.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Compra1.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Detalle_Venta.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarempl.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarprod.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.actualizarprov.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clientes.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminar_proveedor.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empleados.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.eliminarventa.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\bin\Debug\Entidad.dll
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\bin\Debug\Negocio.dll
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\bin\Debug\DAO.dll
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\bin\Debug\Entidad.pdb
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\bin\Debug\Negocio.pdb
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\bin\Debug\DAO.pdb
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\Interop.LCC11.dll
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\Presentacion.csproj.ResolveComReference.cache
+C:\Users\W10\Desktop\Version Final 3.6\WindowsFormsApp1\obj\Debug\Presentacion.csproj.CopyComplete

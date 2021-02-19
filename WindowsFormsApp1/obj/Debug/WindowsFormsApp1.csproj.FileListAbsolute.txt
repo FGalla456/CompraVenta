@@ -1,0 +1,34 @@
+C:\Users\Gasty\Desktop\proyecto final\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gasty\Desktop\proyecto final\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\proyecto final\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\proyecto final\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Gasty\Desktop\proyecto final\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\Gasty\Desktop\proyecto final\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gasty\Desktop\proyecto final\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Gasty\Desktop\proyecto final\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Gasty\Desktop\proyecto final\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\proyecto final\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\finalprog3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Gasty\Desktop\finalprog3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\finalprog3\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Gasty\Desktop\finalprog3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Gasty\Desktop\finalprog3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Categoria.resources
+C:\Users\Gasty\Desktop\finalprog3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_empleado.resources
+C:\Users\Gasty\Desktop\finalprog3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Agregar_Producto.resources
+C:\Users\Gasty\Desktop\finalprog3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.agregar_proveedor.resources
+C:\Users\Gasty\Desktop\finalprog3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AGREGARCLIENTES.resources
+C:\Users\Gasty\Desktop\finalprog3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Categorias.resources
+C:\Users\Gasty\Desktop\finalprog3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.clientes.resources
+C:\Users\Gasty\Desktop\finalprog3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Compras.resources
+C:\Users\Gasty\Desktop\finalprog3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EMPLEADOS.resources
+C:\Users\Gasty\Desktop\finalprog3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Compra.resources
+C:\Users\Gasty\Desktop\finalprog3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Nueva_Venta.resources
+C:\Users\Gasty\Desktop\finalprog3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productos.resources
+C:\Users\Gasty\Desktop\finalprog3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Proveedores.resources
+C:\Users\Gasty\Desktop\finalprog3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.menu.resources
+C:\Users\Gasty\Desktop\finalprog3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Gasty\Desktop\finalprog3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Ventas.resources
+C:\Users\Gasty\Desktop\finalprog3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Gasty\Desktop\finalprog3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Gasty\Desktop\finalprog3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Gasty\Desktop\finalprog3\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
